@@ -1,0 +1,10 @@
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\Yer İstasyonu.csproj.AssemblyReference.cache
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\Yer_İstasyonu.Form1.resources
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\Yer İstasyonu.csproj.GenerateResource.cache
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\Yer İstasyonu.exe.config
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\Yer İstasyonu.exe
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\bin\Debug\Yer İstasyonu.pdb
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\Yer_İstasyonu.Properties.Resources.resources
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\Yer İstasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\Yer İstasyonu.exe
+C:\Users\Ramazan HARMANER\source\repos\Yer İstasyonu\Yer İstasyonu\obj\Debug\Yer İstasyonu.pdb
